@@ -1,5 +1,5 @@
 # 2a_Stop_and_Wait_Protocol
-# Name: K Charan Teja
+# Name: Kommalagunta Charan Teja
 # Register No: 212224040163
 ## AIM 
 To write a python program to perform stop and wait protocol
